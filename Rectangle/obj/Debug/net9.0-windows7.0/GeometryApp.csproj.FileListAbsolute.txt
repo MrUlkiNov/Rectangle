@@ -1,0 +1,14 @@
+C:\Users\samba\source\repos\Rectangle\Rectangle\bin\Debug\net9.0-windows7.0\GeometryApp.exe
+C:\Users\samba\source\repos\Rectangle\Rectangle\bin\Debug\net9.0-windows7.0\GeometryApp.deps.json
+C:\Users\samba\source\repos\Rectangle\Rectangle\bin\Debug\net9.0-windows7.0\GeometryApp.runtimeconfig.json
+C:\Users\samba\source\repos\Rectangle\Rectangle\bin\Debug\net9.0-windows7.0\GeometryApp.dll
+C:\Users\samba\source\repos\Rectangle\Rectangle\bin\Debug\net9.0-windows7.0\GeometryApp.pdb
+C:\Users\samba\source\repos\Rectangle\Rectangle\obj\Debug\net9.0-windows7.0\GeometryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samba\source\repos\Rectangle\Rectangle\obj\Debug\net9.0-windows7.0\GeometryApp.AssemblyInfoInputs.cache
+C:\Users\samba\source\repos\Rectangle\Rectangle\obj\Debug\net9.0-windows7.0\GeometryApp.AssemblyInfo.cs
+C:\Users\samba\source\repos\Rectangle\Rectangle\obj\Debug\net9.0-windows7.0\GeometryApp.csproj.CoreCompileInputs.cache
+C:\Users\samba\source\repos\Rectangle\Rectangle\obj\Debug\net9.0-windows7.0\GeometryApp.dll
+C:\Users\samba\source\repos\Rectangle\Rectangle\obj\Debug\net9.0-windows7.0\refint\GeometryApp.dll
+C:\Users\samba\source\repos\Rectangle\Rectangle\obj\Debug\net9.0-windows7.0\GeometryApp.pdb
+C:\Users\samba\source\repos\Rectangle\Rectangle\obj\Debug\net9.0-windows7.0\GeometryApp.genruntimeconfig.cache
+C:\Users\samba\source\repos\Rectangle\Rectangle\obj\Debug\net9.0-windows7.0\ref\GeometryApp.dll
